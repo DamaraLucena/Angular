@@ -6,6 +6,10 @@ Este repositório é dedicado ao meu aprendizado e prática do framework Angular
 
 - **fundamentos:** Esta branch contém exemplos e exercícios focados nos fundamentos do Angular, como componentes, diretivas, serviços, módulos e roteamento.
 
+## Documentação dos fundamentos
+
+- [Documentação do Projeto](https://sustaining-yoke-cf0.notion.site/Angular-ac1e55d68c084e1e999e23709ac08913?pvs=4)
+
 ## Como Contribuir
 
 Se você é um iniciante como eu ou um especialista em Angular, sinta-se à vontade para contribuir! Issues, sugestões e pull requests são bem-vindos em todas as branches.
