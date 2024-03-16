@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class FirstComponentComponent implements OnInit{
   
   //Trabalhando com o TypeScript
-  name: string = 'Mateus';
+  name: string = 'Damara Santos';
   age: number = 24;
   job: string = 'Desenvolvedora de software';
   hobbies: string[] = ["Estudar", "jogar bola", "ler"];
