@@ -6,7 +6,8 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrl: './parent-data.component.css'
 })
 export class ParentDataComponent implements OnInit {
-  @Input () name: string = '';
+  @Input () name!: string;
+  @Input () userAddress!: string; 
   @Input () userData!: { email: string, role: string }
 
   constructor(){ }

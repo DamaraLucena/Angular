@@ -9,6 +9,7 @@ export class AppComponent {
   title = 'curso-angular';
 
   userName = 'DamaraLucena';
+  userAddress = 'Francisco celso da silva';
   
   userData = {
     email: 'damara@gmail.com',
