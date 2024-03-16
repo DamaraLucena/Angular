@@ -1,27 +1,17 @@
-# CursoAngular
+# Repositório de Estudos Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+Este repositório é dedicado ao meu aprendizado e prática do framework Angular. Aqui, você encontrará uma coleção de projetos, exemplos e exercícios que estou trabalhando para aprimorar minhas habilidades em desenvolvimento web com Angular.
 
-## Development server
+## Divisão por Branches
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **fundamentos:** Esta branch contém exemplos e exercícios focados nos fundamentos do Angular, como componentes, diretivas, serviços, módulos e roteamento.
 
-## Code scaffolding
+## Como Contribuir
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Se você é um iniciante como eu ou um especialista em Angular, sinta-se à vontade para contribuir! Issues, sugestões e pull requests são bem-vindos em todas as branches.
 
-## Build
+## Objetivo
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Meu objetivo com este repositório é consolidar meu conhecimento em Angular, explorando suas diversas funcionalidades e melhores práticas de desenvolvimento. Espero que este repositório possa ser útil não apenas para minha própria jornada de aprendizado, mas também para outros desenvolvedores que buscam recursos e exemplos práticos em Angular.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Vamos aprender e construir juntos!
